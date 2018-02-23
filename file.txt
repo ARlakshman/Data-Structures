@@ -1,1 +1,7 @@
-this is testing commit
+git checkout -b "developer"
+git status
+git add ./file name 
+git status
+git commit -m "message"
+git status
+git push
